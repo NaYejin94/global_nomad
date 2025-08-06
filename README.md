@@ -120,7 +120,7 @@
 
 
 ### 🔗 배포 환경 및 기간
-- **배포 주소**: [Global Nomad](배포 후 주소 업데이트 하겠습니다 )
+- **배포 주소**: [[Global Nomad](https://global-nomad-black.vercel.app/) ]
 - **배포 환경**: vercel
 - **개발 기간**: 2025.05.27 ~ 2025.06.26
 
